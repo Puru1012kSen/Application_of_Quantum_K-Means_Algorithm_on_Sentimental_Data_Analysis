@@ -1,0 +1,1 @@
+# Application_of_Quantum_K-Means_Algorithm_on_Sentimental_Data_Analysis
